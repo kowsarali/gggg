@@ -5,7 +5,7 @@ public class hello {
      greeting ("sar")
   }
 
-    public static void main(string Name) {
-      System.out.printIn("Bye Bye" . name);
+    public static void display() {
+      System.out.printIn("Hello hello");
   }
 }
