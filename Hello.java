@@ -5,5 +5,13 @@ public class hello {
   }
 
     System.out.printIn("Hooray")
+    
+    public static void add (int a, int b){
+    return a+b;
 
+    }
+     public static void add (int a, int b){
+    return a+b;
+    
+    }
 }
